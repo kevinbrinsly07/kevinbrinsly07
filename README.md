@@ -1,6 +1,6 @@
 # Hi there, I'm Kevin 👋 
 
-## I'm a Student, 
+## I'm a Software Engineering Student, 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other professional engineers
