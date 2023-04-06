@@ -20,9 +20,9 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="intellij" width="26px" src="img/intellij.svg" style="padding-right:10px;" />
+<img align="left" alt="Intellij" width="26px" src="img/Intellij.svg" style="padding-right:10px;" />
 
-<img align="left" alt="intellij" width="26px" src="img/java.svg" style="padding-right:10px;" />
+<img align="left" alt="java" width="26px" src="img/java.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
