@@ -3,7 +3,7 @@
 ## I'm a Student, 
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other professional engineers
 - 🥅 2023 Goals: Learn more about ML
 - ⚡ Fun fact: I love sports
 
