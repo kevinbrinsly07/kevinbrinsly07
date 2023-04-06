@@ -1,8 +1,7 @@
-# Hi there, I'm Jesse - aka [codeSTACKr][youtube] 👋 
+# Hi there, I'm Kevin 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kevin_brinsly)
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
@@ -56,49 +55,6 @@
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Fireship in 100 Seconds](https://www.youtube.com/watch?v=cYoY_WbqNSw)
-- [Never Go To Settings Again in VS Code!!](https://www.youtube.com/watch?v=q_oExJyObUw)
-- [🔥 Best VS Code Extension for Writers &amp; Speakers](https://www.youtube.com/watch?v=2R20LH1uG2E)
-- [Clean Up File Tree in VS Code](https://www.youtube.com/watch?v=fHAiCCXqV7Y)
-- [Oh No Vim in VS Code 🤯](https://www.youtube.com/watch?v=QCbBBuN7P_k)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Web Development Roadmap 2023](https://dev.to/codestackr/web-development-roadmap-2023-5beo)
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/motion-canvas/examples/issues/3) in [motion-canvas/examples](https://github.com/motion-canvas/examples)
-2. 🎉 Merged PR [#1](https://github.com/codeSTACKr/gentree-generator/pull/1) in [codeSTACKr/gentree-generator](https://github.com/codeSTACKr/gentree-generator)
-3. 💪 Opened PR [#1](https://github.com/codeSTACKr/gentree-generator/pull/1) in [codeSTACKr/gentree-generator](https://github.com/codeSTACKr/gentree-generator)
-4. 💪 Opened PR [#1](https://github.com/studio-demo/cloudcash-sass/pull/1) in [studio-demo/cloudcash-sass](https://github.com/studio-demo/cloudcash-sass)
-5. 🎉 Merged PR [#1](https://github.com/codeSTACKr/superhero-extensions/pull/1) in [codeSTACKr/superhero-extensions](https://github.com/codeSTACKr/superhero-extensions)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
