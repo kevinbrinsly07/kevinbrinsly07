@@ -2,11 +2,6 @@
 
 ## I'm a Software Engineering undergraduate, 
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other professional engineers
-- 🥅 2023 Goals: Learn more about ML
-- ⚡ Fun fact: I love sports
-
 ### Connect with me:
 
 [![website](./img/twitter.svg)](https://twitter.com/kevin_brinsly#gh-light-mode-only)
