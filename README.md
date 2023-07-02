@@ -10,8 +10,8 @@
 [![website](./img/linkedin.svg)](https://www.linkedin.com/in/kevin-brinsly-se/#gh-light-mode-only)
 [![website](./img/linkedin.svg)](https://www.linkedin.com/in/kevin-brinsly-se/#gh-dark-mode-only)
 &nbsp;&nbsp; 
-[![website](./img/instagram.svg)](https://www.instagram.com/_kevin_brinsly_/#gh-light-mode-only)
-[![website](./img/instagram.svg)](https://www.instagram.com/_kevin_brinsly_/#gh-dark-mode-only)
+[![website](./img/instagram.svg)](https://www.instagram.com/kevinbrinsly/#gh-light-mode-only)
+[![website](./img/instagram.svg)](https://www.instagram.com/kevinbrinsly/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
