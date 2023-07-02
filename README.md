@@ -1,6 +1,6 @@
 # Hi there, i'm Kevin 👋 
 
-## I'm a Software Engineering undergraduate. 
+## I'm a Software Engineer undergraduate. 
 
 ### Connect with me:
 
