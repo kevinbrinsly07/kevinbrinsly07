@@ -1,6 +1,7 @@
-# Hi there, i'm Kevin 👋 
+### Hi there, i'm Kevin 👋 
 
-## I'm a Software Engineer. 
+#### I'm a Software Engineer. 
+###### I am passionate about designing and developing scalable software solutions, with expertise in both front-end and back-end development. I focus on building user-friendly applications and robust systems. My experience includes developing web applications, APIs, and AI-powered solutions. I thrive on solving complex problems and optimizing performance.
 
 ### Connect with me:
 
